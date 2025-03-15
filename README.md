@@ -1,4 +1,4 @@
-## Barber Shop API - Agendamento de Atendimentos com Angular
+## Barber Shop API 
 
 Este projeto faz parte do programa **Decola Tech Avanade 2025** e tem como objetivo desenvolver o backend de agendamentos de atendimento em uma barbearia com **Java e Spring**, utilizando **JPA com Hibernate** para a persistência dos dados no **PostgreSQL** e gerenciamento de migrations com **Flyway**.
 
